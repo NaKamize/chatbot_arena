@@ -1,3 +1,4 @@
 data/
 *.joblib
 *submission.csv
+trained_models/
