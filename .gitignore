@@ -2,3 +2,9 @@ data/
 *.joblib
 *submission.csv
 trained_models/
+deberta_clean/
+gemma2-9b-it/
+my_distilbert/
+__pycache__/
+.vscode/
+distilbert_preference_model/

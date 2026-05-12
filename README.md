@@ -9,7 +9,19 @@ https://www.kaggle.com/competitions/llm-classification-finetuning
 Leaderboard:
 https://www.kaggle.com/competitions/llm-classification-finetuning/leaderboard
 
-## Current Result
+## Current Results
+
+### DistilBERT
+
+- Submission status: submitted
+- Rank: 112 / 257
+- Name: Jozef Makis
+- Score: 1.04331
+- Submissions: 5
+- Last updated: 1d
+- Model: DistilBERT notebook
+
+### TF-IDF Baseline
 
 - Submission status: submitted
 - Rank: 168 / 263
